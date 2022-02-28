@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A coppie of a letter, read in the House of Commons: sent from Master Sampford, high sheriffe of the countie of Somerset, and the committee there, of their weekly proceedings, in searching the recusants houses. Also the number of such ammunition as was taken in their houses, and sent to the castle at Taunton. Ordered to be printed. Hen. Elsyng, Cler. Parl. D. Com.</title>
+            <author>Sampford, H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93846</idno>
+            <idno type="STC">Wing S538</idno>
+            <idno type="STC">Thomason E114_18</idno>
+            <idno type="STC">ESTC R6681</idno>
+            <idno type="EEBO-CITATION">99873022</idno>
+            <idno type="PROQUEST">99873022</idno>
+            <idno type="VID">125469</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93846)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125469)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E114[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A coppie of a letter, read in the House of Commons: sent from Master Sampford, high sheriffe of the countie of Somerset, and the committee there, of their weekly proceedings, in searching the recusants houses. Also the number of such ammunition as was taken in their houses, and sent to the castle at Taunton. Ordered to be printed. Hen. Elsyng, Cler. Parl. D. Com.</title>
+                  <author>Sampford, H.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>August 26. Printed at London for W. Ley,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed by H. Sampford and 5 others.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Somerset (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125469:1"/>
+            <pb facs="tcp:125469:1" rendition="simple:additions"/>
+            <p>A Coppie of a LETTER, Read in the Houſe of COMMONS: SENT From Maſter SAMPFORD, High Sheriffe of the Countie of <hi>So<g ref="char:EOLhyphen"/>merſet,</hi> and the Committee there, of their weekly proceedings, in ſearching the Recuſants Houſes.</p>
+            <p>Alſo the number of ſuch Ammunition as was taken in their Houſes, and ſent to the Caſtle at <hi>Taunton</hi>
+            </p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Ordered to be Printed.</p>
+                  <closer>
+                     <signed>
+                        <hi>Hen. Elſyng,</hi> Cler. Farl. D. Com.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Auguſt</hi> 26. Printed at <hi>London</hi> for <hi>W. Ley.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:125469:2"/>
+            <pb n="1" facs="tcp:125469:2"/>
+            <head>A Coppie of a Letter read in the houſe of Commons, ſent from Maſter <hi>Sampford,</hi> high Sheriffe of the Countie of <hi>Somerſet,</hi> and the Com<g ref="char:EOLhyphen"/>mittee there, of their weekly <hi>Proceedings, &amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Honourable Gentlemen,</salute>
+            </opener>
+            <p>WEE have ſent you our Weeks taske, and an account of the ſervice we were com<g ref="char:EOLhyphen"/>manded by both Houſes, <hi>viz.</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">F</seg>IR'ST, on Munday, the fifteenth of <hi>Auguſt,</hi> early in the Morning wee with the attendants of the Trained Bands came to <hi>Taunton</hi> none know<g ref="char:EOLhyphen"/>ing our intent, (the Major excepted) after an houres reſpite, Baronet <hi>Port<g ref="char:EOLhyphen"/>man,</hi> Mr. <hi>Coles,</hi> Mr. <hi>Pyne,</hi> and others were ſent for by us, who immediately came and aſſi<g ref="char:EOLhyphen"/>ſted us with Horſe and Foot: Then after conſultation
+<pb n="2" facs="tcp:125469:3"/>wee ſearched one Maſter <hi>Brownes</hi> houſe, a Recuſant, and found therein 60. mens Armour, and o<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er Ammuni<g ref="char:EOLhyphen"/>tion of Pike and Muſquet, in Alder<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> houſe twentie mens Armour of Pike and <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Tuckers</hi> houſe, the Receiver of the Biſhop of <hi>Winche<g ref="char:EOLhyphen"/>ſter's</hi> Rents, and Steward of his Courts one handered mens Armour for Horſe and Foot, alſo two barrells of Gun-powder, fifty great Saddles; with ſhot of all ſorts. Then we marched to the out-pariſhes, as Bad<g ref="char:EOLhyphen"/>ford, Nenea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, Langford, and Wellington, and in Bad<g ref="char:EOLhyphen"/>ford, ſearching Captaine <hi>Collins</hi> houſe, found therein ten mens Armour, and in Maſter <hi>Eaſons</hi> houſe of the ſame pariſh five mens Armour: at Nyneard, ſearching Maſter <hi>Sheeres</hi> houſe, found therein 40 mens Armour of pike and muſquet: And at Langford, at Maſter <hi>Prowſes</hi> houſe twenty mens Armour; and at Welling<g ref="char:EOLhyphen"/>ton in Maſter <hi>Strawbridge's</hi> houſe fifty mens Armour.</p>
+            <p>On Tueſday, the ſixteen we marched to <hi>Bridgwater,</hi> where we were entertained by the Major and Alder<g ref="char:EOLhyphen"/>men, and found therein at ſome private gentlemens houſes about ſixty mens Armour, and other Ammuni<g ref="char:EOLhyphen"/>tion, and left it in charge with the Major and Alder<g ref="char:EOLhyphen"/>men, to bee ready at the King and Parliaments com<g ref="char:EOLhyphen"/>mand.</p>
+            <p>On Wedneſday the ſeventeenth we marched to <hi>We<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> and comming within a mile of the Towne, wee were met by the Major and Aldermen, and accompanyed by them into the Towne, and quartered our ſelves, in ſearching two in each ſtreet, and began firſt and ſear<g ref="char:EOLhyphen"/>ched the Biſhops houſe, but found nothing there. But in Doctor <hi>Weſtons</hi> houſe wee found neare upon one hundred mens Armour; in Eſquire <hi>Roſes</hi> houſe forty
+<pb n="3" facs="tcp:125469:3"/>mens armour, in Eſquire <hi>Pollards</hi> houſe forty mens ar<g ref="char:EOLhyphen"/>mour, in Maſter <hi>Iohnſons</hi> houſe twenty mens armour<g ref="char:EOLhyphen"/>in Maſter <hi>Tomkins</hi> houſe fifty mens armour, and wee gave imediate charge to have them carryed to <hi>Taunton</hi> Caſtle, which was ſo done.</p>
+            <p>On Thurſday the 18, we marched to the City of Bath, accompanyed with Mr. <hi>Barret</hi> of Cotford, Maſter <hi>Baſſet</hi> Maſter <hi>Harrington,</hi> Maſter <hi>Bampfield,</hi> and others, and there ſearched Sir. <hi>George Ives</hi> houſe but found none there, but one of his ſervants ſaid he had ſent all his Ar<g ref="char:EOLhyphen"/>mour to <hi>Sir Ralph Hopton's</hi> houſe and was going thi<g ref="char:EOLhyphen"/>ther to ſojourne with his wife and family: Then wee ſearched one Maſter <hi>Ceaſars</hi> houſe, neare the Earle of <hi>Rutlands</hi> Caſtle, and found therein 100 mens armour, five light horſes, and ſufficient ammunition for twen<g ref="char:EOLhyphen"/>ty horſe more, and about 10000. pound in money: and afterward wee went to Sir <hi>Edward Rodneys</hi> houſe, where we concluded that ſome of us ſhould the next day with a ſufficient Company of Horſe and foot, ſearch theſe Townes here underwritten, <hi>viz.</hi>
+               <list>
+                  <item>Glaſt<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nbury,</item>
+                  <item>Ilcheſter,</item>
+                  <item>Ilminſter.</item>
+                  <item>Shipton Mallet,</item>
+                  <item>Chard,</item>
+                  <item>Crewkerne.</item>
+                  <item>South, and North Petherton, &amp;c.</item>
+               </list>
+            </p>
+            <p>The Sheriffe requeſted that by reaſon of his age he might be excuſed of the ſaid attendance, and that his ſervants ſhould wait on them where they pleaſed, which was granted.</p>
+            <p>Sir <hi>Edward Rodney</hi> and Captaine <hi>Brookes</hi> immediat<g ref="char:EOLhyphen"/>ly ſent warrants for the Trained Bands about them to give their attendance the day following.</p>
+            <p>
+               <pb n="4" facs="tcp:125469:4"/>
+On Fryday the 19 two companies of foot came to Sir <hi>Edward Rodney's</hi> houſe and ſearched the Towne of Glaſtenbury, and found therein forty mens armour, and at the end of Glaſtenbury Doune in Farmer <hi>Twiſts</hi> houſe 100 mens armour of horſe and foot, and after ex<g ref="char:EOLhyphen"/>amination, confeſſed it was his Landlords armour, Sir <hi>Iohn Stowells,</hi> and hath had it within this ſixe weeks, ne<g ref="char:EOLhyphen"/>vertheleſſe committed him to Ilcheſter Goale for his ſecreſie.</p>
+            <p>This day alſo Mr. <hi>Phillips,</hi> Mr. <hi>Light,</hi> Mr. <hi>Hodgs,</hi> &amp; Mr. <hi>Trevillion</hi> met at Ilcheſter, and a Trained band attended on them and ſearched one Mr. <hi>Vincents,</hi> and Mr. <hi>Forteſcues</hi> houſes, &amp; found in each of them 40 mens armour a peice, and in Kingſton pariſh being the Earle of Barkeſhires were found in a barne 10 light horſes, 100 Saddles 100 ſwords and 40 muſquets which was immediately ſent to Taunton. In Ilminſter and Shipton Mallet, there are divers other poore Recuſants, but none able to buy or maintaine armes.</p>
+            <p>This day alſo at <hi>Chard</hi> there met Mr. <hi>Martine, Sr Hen<g ref="char:EOLhyphen"/>ry Roſewell,</hi> Mr <hi>Preston,</hi> and Mr <hi>Symes</hi> who were ac<g ref="char:EOLhyphen"/>companyied with the trained Bands, and ſearched the Parſon of the Pariſh his houſe, and found there 50 mens Armour, in Mr <hi>Coleman's</hi> houſe 100 mens Ar<g ref="char:EOLhyphen"/>mour, in <hi>Sir William Button's</hi> Ladies Houſe 150 mens Armour, in Mr <hi>Hill's</hi> houſe 50 mens Armour; All which was likewiſe ſent to Taunton Caſtle.</p>
+            <p>The ſame day Mr. <hi>Meredith,</hi> Mr. <hi>Fowler</hi> and others were appointed to ſearch at Crookehorne and therea<g ref="char:EOLhyphen"/>bouts, who came to the Lord <hi>Paulet's</hi> houſe, but the Gentry and ſervants therein would not obey their au<g ref="char:EOLhyphen"/>thoritie but bid them be gone otherwiſe they would
+<pb n="5" facs="tcp:125469:4"/>let bullets fly amongſt them, and would not let any of the Trained Bands to enter the ſaid houſe: Hereupon one of the Trained Band ſhort a bullett againſt the Port-houſe doore, nevertheleſſe they would not open it, at length they brake it open and entred perforce &amp; one of the Trained Band killed, there was above fifty perſons therein Gentry and ſervants, there was found 10 light horſe and 150 mens Armour or thereabouts.</p>
+            <p>Then wee came to North and South Petherton &amp; in <hi>Sir John Cary's</hi> houſe found 20 mens Armour; All which number of Armes amounting unto, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>Armour 1800</item>
+               <item>Saddles 150</item>
+               <item>Light-horſe 25</item>
+               <item>Money 10000. <hi>li.</hi>
+               </item>
+            </list>
+            <p>All which wee left in the Caſtle at Taunton under the Cuſtody of the Maior and Aldermen of the ſaid Towne with a ſufficient guard for the ſafe keeping thereof.</p>
+            <p>Wee therefore humbly pray the Honourable Aſſem<g ref="char:EOLhyphen"/>bly in Parliament, that the Ammunition taken afore<g ref="char:EOLhyphen"/>ſaid may not be carried out of the County but that it may be diſtributed and imployed in the defence of the Countrey. And wee ſhall daily pray for the happy pro<g ref="char:EOLhyphen"/>ceedings of both Houſes.</p>
+            <closer>
+               <dateline>From <hi>Bath,</hi> 
+                  <date>Auguſt 20. 1642.</date>
+               </dateline>
+               <signed>Your affectionate friends,
+<list>
+                     <item>H. Sampford.</item>
+                     <item>I. Stroud.</item>
+                     <item>F. Coles.</item>
+                     <item>J. Horner.</item>
+                     <item>A. Popham.</item>
+                     <item>A. Pyne.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Ordered to bee Printed.</p>
+            <closer>
+               <signed>Hen. Elſing Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
